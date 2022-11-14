@@ -1,5 +1,5 @@
 # LoginScreen
-Login Screen feita em python.
+Login Screen feita em python e MySql.
 
 A Login Screen conta com:
 - Interface gráfica (TKinter).
